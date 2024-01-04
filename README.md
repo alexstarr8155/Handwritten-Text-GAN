@@ -1,0 +1,1 @@
+This Python Jupyter notebook represents a Generative Adversarial Network (GAN), trained on open source data of handwritten digits. With minimal training the model begins to learn (without human labelling) how to create legible digits.
